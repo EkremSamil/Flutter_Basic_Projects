@@ -1,6 +1,16 @@
-# Flag Quiz App
-Basic Projects :  
-  
-How To Play: 
-  a country flag is shown and one option is correct others options are false, choose correct options and win the game !
-You have 5 question if 2<(answer) is right you are win!
+# flag_quiz
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
