@@ -1,2 +1,2 @@
-# Flutter_Basic_Projects
-Basic Projects
+# Dictionary App
+
