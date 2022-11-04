@@ -1,2 +1,3 @@
-# Flutter_Basic_Projects
-Basic Projects
+# Notes App...
+
+This App  show student lessons and points
