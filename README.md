@@ -1,16 +1,34 @@
-# notes_app
+# Flutter_Basic_Projects
+Basic Projects
+# Notes App...
 
-A new Flutter project.
+This App  show student lessons and points
 
-## Getting Started
+Main Page : 
+This page using for add new lessons or select your created lessons. 
 
-This project is a starting point for a Flutter application.
+![MainPage](https://user-images.githubusercontent.com/63926513/200039628-31f2fbc4-eea0-4007-939f-1c49eb6fd46e.png)
 
-A few resources to get you started if this is your first Flutter project:
+If u are clicked right bottom button in homepage, u can add your new lessons like that
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![LessonsCreating](https://user-images.githubusercontent.com/63926513/200039858-6bd8a98a-2b5a-4e2b-b338-7f496812d41a.PNG)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+For Example :
+
+![LessonsCreating](https://user-images.githubusercontent.com/63926513/200040107-41e2fe4b-5740-4636-97eb-4159aff93d92.PNG)
+
+
+Your created lessons are showing in homepage :
+
+![LastPageAvg](https://user-images.githubusercontent.com/63926513/200040151-5951f39c-a913-4df4-8cc7-969942fe3a7a.png)
+
+
+Last skill : -> 
+
+If you created a lesson and  clicked ontap, u're going to details page
+
+You see in the right top corner Delete and Upgrade button ,
+  if u want delete this lesson or change some data choose your row and write that over
+
+![DelUpgrade](https://user-images.githubusercontent.com/63926513/200040247-92f47a92-7065-4b40-9495-008545baaf62.png)
